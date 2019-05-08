@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoogleShortcut</string>
+    <string-array name="Google">
+        <item> GoogleDocs </item>
+        <item> GoogleSheets </item>
+        <item> GoogleSlides </item>
+        <item> GoogleDrive </item>
+    </string-array>
+</resources>
